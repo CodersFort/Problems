@@ -1,6 +1,9 @@
 # Problems
 All problems listed. Pick or add one and start solving.
 
+## Contribution Guidelines
+Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
+
 ## Arrays
   * [Two Sum](https://github.com/CodersFort/Java/blob/main/Arrays/TwoSum.java)
   * [Three Sum](https://github.com/CodersFort/Java/blob/main/Arrays/TwoSum.java)
